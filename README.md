@@ -21,5 +21,5 @@
   
   <div>
   <a href = "mailto:viniciusgbriel447@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in//vinicius-gabriel-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="[https://www.linkedin.com/in//vinicius-gabriel-45875016a](https://www.linkedin.com/in/vinicius-gabriel-2a626420a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <div>
